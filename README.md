@@ -1,16 +1,15 @@
-# todo_list
+# Aplikasi to-do list
 
-A new Flutter project.
+Aplikasi to-do list menggunakan Flutter
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## 📱 Fitur
 
-A few resources to get you started if this is your first Flutter project:
+- ✅ Add, edit, delete tugas
+- ☑️ Menandai tugas sudah selesai atau belum
+- 💾 Offline database lokal menggunakan `sqflite`
+- 🔁 Menggunakan Firebase untuk penyimpanan di cloud
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+---
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
