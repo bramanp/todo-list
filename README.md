@@ -36,7 +36,7 @@ Aplikasi to-do list menggunakan Flutter
 <img src="screenshot/ss_appbar.jpg" width="250"/>
 
 Untuk tombol yang sebelah kiri berfungsi untuk menyimpan data di cloud (Firebase) dengan menyalin seluruh data di lokal kemudian menggantikan seluruh data di cloud.
-Tombol sebelah kanan untuk menyalin seluruh data di cloud (Firebase) dan menggantu seluruh data di lokal.
+Tombol sebelah kanan untuk menyalin seluruh data di cloud (Firebase) dan mengganti seluruh data di lokal.
 
 ---
 
